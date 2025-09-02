@@ -1,0 +1,33 @@
+.Vergleich {
+  display: flex !important;          /* coloca los divs uno al lado del otro */
+  justify-content: space-between;     /* separa izquierda y derecha */
+  width: 100%;
+  gap: 20px;
+}
+
+.lado-izquierdo {
+  width: 48%;
+  text-align: left;                   /* texto alineado a la izquierda */
+}
+
+.lado-derecho {
+    width: 40%;
+    text-align: right;
+}
+
+.Vergleich-Gesundheit {
+  display: flex !important;          /* coloca los divs uno al lado del otro */
+  justify-content: space-between;     /* separa izquierda y derecha */
+  width: 100%;
+  gap: 20px;
+}
+
+.izquierdo-lado {
+    width: 48%;
+    text-align:left;
+}
+
+.derecho-lado {
+    width: 40%;
+    text-align: right;
+}
